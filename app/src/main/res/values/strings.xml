@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WToon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="editText_main">Search...</string>
+    <string name="title_search">Search\n</string>
+    <string name="title_browse">Browse</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_following">Following</string>
+</resources>
